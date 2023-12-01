@@ -1,0 +1,2 @@
+This repository, part of the curriculum at Holberton School and overseen by CTO Guillaume, focuses on Python network scripting. The project covers tasks involving fetching internet resources, making HTTP requests, and working with response data. 
+The is use of both the urllib and requests packages to achieve specific learning objectives, such as decoding response bodies, handling HTTP errors, and interacting with the GitHub API. The repository adheres to strict coding standards, including the use of specific editors, interpreter versions, and coding style checks.
